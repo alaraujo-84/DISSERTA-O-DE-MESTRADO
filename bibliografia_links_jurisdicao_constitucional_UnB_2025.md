@@ -228,4 +228,77 @@ Observações gerais:
 - [PAYWALL] Wiley: https://onlinelibrary.wiley.com/doi/abs/10.1111/kykl.12143
 - [ABERTO] Preprint SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580849 (ID confirmado na página do autor https://ignaciocofone.com/research.html)
 
-<!-- PARTE B (O–Z) a inserir -->
+**OLIVEIRA, Fabiana Luci de.** O Supremo Tribunal Federal e a política no Brasil contemporâneo. *Cadernos Adenauer*, XVIII, n. 1 (Política e Poder Judiciário), 2017, p. 125-148.
+- [ABERTO] PDF do volume completo (KAS): https://www.kas.de/wf/doc/23071-1442-5-30.pdf — página do volume: https://www.kas.de/pt/web/brasilien/einzeltitel/-/content/politik-und-rechtsprechung
+
+**OLIVEIRA, Fabiana Luci de.** Supremo relator: processo decisório e mudanças na composição do STF nos governos FHC e Lula. *Revista Brasileira de Ciências Sociais*, v. 27, n. 80, 2012, p. 89-115.
+- [ABERTO] Redalyc (PDF conferido): https://www.redalyc.org/pdf/107/10724731006.pdf
+- [ABERTO] SciELO (não verificável daqui por bloqueio a robôs): https://www.scielo.br/j/rbcsoc/a/JWytfvnzyb9ZkxGh965PZgR/?lang=pt
+
+**OLIVEIRA, Fabiana Luci de.** Processo decisório no Supremo Tribunal Federal: coalizões e "panelinhas". *Revista de Sociologia e Política*, v. 20, n. 44, 2012, p. 139-153.
+- [ABERTO] SciELO PDF: https://www.scielo.br/j/rsocp/a/WnQnXpwLV6SPnXTqgLRxdPq/?format=pdf&lang=pt
+- [ABERTO] Portal UFPR: https://revistas.ufpr.br/rsp/article/view/34426 (DOI 10.5380/rsp.v20i44.34426) — PDF: https://revistas.ufpr.br/rsp/article/download/34426/21350
+
+**OLIVEIRA, Fabiana Luci; FALAVINHA, Diego H. S.; BRAGHIN, Simone.** Processo decisório no STF e o caso da Reforma do Judiciário. *Revista Direito e Práxis*, v. 6, n. 11, 2015, p. 365-394.
+- [ABERTO] PDF (UERJ): https://www.e-publicacoes.uerj.br/revistaceaju/article/download/18739/14043/63385 — página: https://www.e-publicacoes.uerj.br/revistaceaju/article/view/18739 (DOI 10.12957/dep.2015.18739)
+
+**PASQUINO, Pasquale.** A political theory of constitutional democracy. Straus Institute Working Paper 04/13, NYU, 2013.
+- [ABERTO] Link do programa, válido: https://www.law.nyu.edu/sites/default/files/siwp/WP4Pasquino.pdf
+
+**PASQUINO, Pasquale.** Majority rules in constitutional democracies. In: ELSTER; NOVAK (eds.). *Majority Decisions*. CUP, 2014, p. 219-235.
+- [PAYWALL] Cambridge Core (capítulo): https://www.cambridge.org/core/books/abs/majority-decisions/majority-rules-in-constitutional-democracies/8EA3185BD10D917C01E66CA46DE9F4A2 (DOI 10.1017/CBO9781107286160.011)
+- [ABERTO] Versão preliminar (Collège de France, 2009): https://www.college-de-france.fr/media/jon-elster/UPL26054_pasquino_majority_rule.pdf
+
+**PESSOA, Paula (PEREIRA, Paula Pessoa).** *Supermaioria no Supremo Tribunal Federal*. RT, 2025.
+- [FICHA] Livraria RT: https://www.livrariart.com.br/supermaioria-no-supremo-tribunal-federal/p
+- [ABERTO] Tese de origem (UFPR, 2017, "Supermaioria como regra de decisão na jurisdição constitucional do STF"), PDF pelo SIGA/UFPR: https://siga.ufpr.br/siga/visitante/trabalhoConclusaoWS?idpessoal=20806&idprograma=40001016017P3&anobase=2017&idtc=63 — handle no Acervo Digital (servidor fora do ar durante a verificação): https://acervodigital.ufpr.br/handle/1884/63375
+
+**PINHEIRO, Victor Marcel.** *Decisões vinculantes do STF: a cultura de precedentes*. Almedina, 2020/2021.
+- [FICHA] Amazon.com.br: https://www.amazon.com.br/dp/6556271489
+- Dissertação de mestrado relacionada (USP, 2013; ficha não verificada daqui): https://www.teses.usp.br/teses/disponiveis/2/2134/tde-22122022-151400/
+
+**POST, Robert C.; SIEGEL, Reva B.** Roe rage: democratic constitutionalism and backlash. *Harvard Civil Rights-Civil Liberties Law Review*, v. 42, 2007, p. 373-433.
+- [ABERTO] PDF (Yale Law School): https://law.yale.edu/sites/default/files/documents/pdf/Faculty/Siegel_RoeRageDemocraticConstitutionalismAndBacklash.pdf
+- Registro OpenYLS: https://openyls.law.yale.edu/entities/publication/da2a1877-3218-4f48-8721-070d00332aaa
+
+**RIGGS, Robert E.** When every vote counts: 5-4 decisions in the United States Supreme Court, 1900-90. *Hofstra Law Review*, v. 21, n. 3, 1993, p. 667-724.
+- [ABERTO] Página: https://scholarlycommons.law.hofstra.edu/hlr/vol21/iss3/3 — PDF: https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=1867&context=hlr
+
+**SHUGERMAN, Jed Handelsman.** A six-three rule: reviving consensus and deference on the Supreme Court. *Georgia Law Review*, v. 37, 2003, p. 893-1017.
+- [ABERTO] BU Scholarly Commons: https://scholarship.law.bu.edu/faculty_scholarship/3600 — PDF: https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=4583&context=faculty_scholarship
+- [ABERTO] SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4100400
+
+**SOKAL, Guilherme Jales.** *O julgamento colegiado nos tribunais*. Método, 2012.
+- [FICHA] Registro LexML (livro esgotado): https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:2012;000957030
+
+**SOUZA, Camila Nascimento de.** *O plenário virtual, esse outro desconhecido*. Lumen Juris, 2023.
+- [FICHA] Editora: https://lumenjuris.com.br/direito-constitucional/plenario-virtual-esse-outro-desconhecido-o-2023-3879/p
+- [ABERTO] Dissertação de origem (UniCEUB, 2022, orient. Patrícia Perrone Campos Mello): https://repositorio.uniceub.br/items/ffe4cef7-d4ee-4a28-b11a-ec47c8daaf80 — PDF: https://repositorio.uniceub.br/bitstreams/b6c8cd9e-f11c-46b8-b875-4b66fccac3d0/download
+
+**TRIGUEIRO, Victor Guedes.** *O jogo da pauta no Supremo Tribunal Federal*. Thoth, 2023.
+- [FICHA] Editora: https://editorathoth.com.br/produto/o-jogo-da-pauta-no-supremo-tribunal-federal-decidindo-nao-decidir-a-inconstitucionalidade-da-prisao-em-segunda-instancia/728
+- [ABERTO] Tese de origem (UniCEUB, 2022): https://repositorio.uniceub.br/items/f37862f1-4e86-4ffb-9cf6-4d902ddb3c9f — PDF: https://repositorio.uniceub.br/bitstreams/f7df141b-39db-4920-8907-8d4ae6370a58/download
+
+**TUSHNET, Mark (ed.).** *I dissent: great opposing opinions in landmark Supreme Court cases*. Beacon Press, 2008.
+- [FICHA] Editora: https://beacon.org/I-Dissent-P663.aspx
+
+**WALDRON, Jeremy.** Five to four: why do bare majorities rule on courts? *Yale Law Journal*, v. 123, 2014, p. 1692-1730.
+- [ABERTO] PDF: https://www.yalelawjournal.org/pdf/1692.Waldron.1730_bjt79yj5.pdf — página: https://www.yalelawjournal.org/essay/five-to-four-why-do-bare-majorities-rule-on-courts
+
+**WARREN, Charles.** Legislative and judicial attacks on the Supreme Court of the United States. *American Law Review*, v. 47, 1913, p. 1-34 e 161-189.
+- [NÃO LOCALIZADO] Cópia digital (archive.org não tem o v. 47; HathiTrust e Google Books bloquearam a verificação). Domínio público: sugiro busca manual em https://catalog.hathitrust.org por "American law review" v. 47 (1913), ou HeinOnline via CAPES.
+
+**ZAGREBELSKY, Gustavo.** La Corte in-politica. *Quaderni costituzionali*, XXV, n. 2, 2005, p. 273-282.
+- [PAYWALL] Il Mulino/Rivisteweb: https://www.rivisteweb.it/doi/10.1439/19985
+- [ABERTO] Texto de origem (intervento no XXIII Premio Chiarelli, 2004), Federalismi.it: https://www.federalismi.it/nv14/articolo-documento.cfm?artid=2443
+
+**ZARONI, Bruno Marzullo.** *Deliberação e julgamento colegiado: uma análise do processo decisório do STF*. Tese (Doutorado) – UFPR, 2015.
+- [ABERTO, não verificado hoje] Acervo Digital UFPR (servidor fora do ar em todas as tentativas): https://acervodigital.ufpr.br/handle/1884/55056 — registro BDTD: https://bdtd.ibict.br/vufind/Record/UFPR_bbdd096b63fda8c68815f1a8431fcc56
+
+---
+
+## Pendências
+
+- **Sem link aberto localizado:** Ferejohn & Pasquino (Texas Law Review, 2004); Mendes, "Desempenho deliberativo..." (Saraiva, 2011); Mendes, "O projeto de uma corte deliberativa" (Malheiros, 2012); Warren (1913); Mangabeira (1934); capítulo Ferejohn & Pasquino em Sadurski (2003); Waldron, "Deliberación, desacuerdo y votación".
+- **Servidores fora do ar durante a verificação (tentar novamente):** acervodigital.ufpr.br (Zaroni; tese de Paula Pessoa); constituicao.direito.usp.br (PDF de "Deciding without deliberating"); páginas HTML da SciELO.
+- **Tese de Conrado Hübner Mendes (Edimburgo)** foi retirada do repositório ERA; não há substituto aberto para o livro da OUP.
